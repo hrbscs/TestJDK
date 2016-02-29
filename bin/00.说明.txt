@@ -1,0 +1,5 @@
+jdk15.a01enum                               枚举
+jdk15.a02varargus                           可变参数（Varargs）
+jdk15.a03introspector                       内省(Introspector)
+jdk15.a04reflection                         反射
+jdk15.a05generic                            泛型
